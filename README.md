@@ -17,9 +17,9 @@ Designed with both the user and the business owner in mind, it combines a sleek,
 
 ## 🛠️ Tech Stack
 > **Note:** Here you can list the technologies you used (e.g., React, Node.js, Tailwind CSS, etc.)
-* **Frontend:** [Technology 1], [Technology 2]
-* **Backend:** [Technology 3]
-* **Database:** [Technology 4]
+* **Frontend:** HTML CSS JS
+* **Backend:** PHP
+* **Engine:** Engine: WordPress (CMS)
 * **Design:** Figma
 
 ## 📸 Project Showcase
