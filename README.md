@@ -16,7 +16,6 @@ Designed with both the user and the business owner in mind, it combines a sleek,
 * **Fully Responsive:** Flawless performance across all desktop, tablet, and mobile devices.
 
 ## 🛠️ Tech Stack
-> **Note:** Here you can list the technologies you used (e.g., React, Node.js, Tailwind CSS, etc.)
 * **Frontend:** HTML CSS JS
 * **Backend:** PHP
 * **Engine:** Engine: WordPress (CMS)
