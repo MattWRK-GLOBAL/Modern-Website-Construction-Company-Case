@@ -1,13 +1,40 @@
-# Modern Website (Construction Company Case)
+# 🏗️ Modern Construction Company Website
 
-I design and build modern websites for businesses. This case features a professional, working style suitable for construction companies and other service-oriented businesses. The content and size of the website can be adjusted according to the client’s needs.
-# Демонстрація проекту
+![UI/UX](https://img.shields.io/badge/UI%2FUX-Professional-blue)
+![Responsive](https://img.shields.io/badge/Responsive-100%25-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-## Головне вікно
-![WB](WB.png)
+## 📖 Overview
+A successful business needs a solid online presence. This project showcases a high-performance, conversion-focused website tailored specifically for construction companies and service-oriented businesses. 
 
-## Форма
-![WB-form](WB-form.png)
+Designed with both the user and the business owner in mind, it combines a sleek, professional aesthetic with powerful lead-generation tools. The architecture is fully flexible, meaning the website can easily scale and adapt as the client’s business grows.
 
-## Адмін-панель
-![WB-admin](WB-admin.png)
+## ✨ Key Features
+* **Professional UI/UX:** A clean, trust-building design that highlights services and past projects.
+* **Lead-Optimized Forms:** Streamlined contact forms designed to capture client inquiries effortlessly.
+* **Custom Admin Panel:** An intuitive dashboard allowing business owners to manage content, track requests, and update their portfolio without any coding skills.
+* **Fully Responsive:** Flawless performance across all desktop, tablet, and mobile devices.
+
+## 🛠️ Tech Stack
+> **Note:** Here you can list the technologies you used (e.g., React, Node.js, Tailwind CSS, etc.)
+* **Frontend:** [Technology 1], [Technology 2]
+* **Backend:** [Technology 3]
+* **Database:** [Technology 4]
+* **Design:** Figma
+
+## 📸 Project Showcase
+
+### 🖥️ Main Page
+*A strong first impression that highlights the company's expertise and core services.*
+<br>
+![Main Page](WB.png)
+
+### 📝 Contact & Lead Form
+*Designed for high conversion, making it easy for potential clients to request a quote.*
+<br>
+![Lead Form](WB-form.png)
+
+### 🎛️ Admin Dashboard
+*A behind-the-scenes look at the easy-to-use content management system.*
+<br>
+![Admin Panel](WB-admin.png)
