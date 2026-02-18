@@ -15,10 +15,16 @@ Designed with both the user and the business owner in mind, it combines a sleek,
 * **Custom Admin Panel:** An intuitive dashboard allowing business owners to manage content, track requests, and update their portfolio without any coding skills.
 * **Fully Responsive:** Flawless performance across all desktop, tablet, and mobile devices.
 
-## 🛠️ Tech Stack
-* **Frontend:** HTML CSS JS
-* **Backend:** PHP
-* **Engine:** Engine: WordPress (CMS)
+## 🛠️ Scalability & Customization
+This project is built to be a modular foundation. It can be easily expanded with additional high-value features such as:
+* **Advanced Portfolio:** Interactive galleries and categorized project showcases to demonstrate expertise.
+* **Multi-language Support:** Expand your reach to international markets.
+* **Custom Modules:** Calculators, client portals, or deep SEO analytics integrations.
+
+## ⚙️ Tech Stack
+* **Engine:** WordPress (CMS)
+* **Backend:** PHP, MySQL
+* **Frontend:** HTML5, CSS3, JavaScript
 * **Design:** Figma
 
 ## 📸 Project Showcase
@@ -37,3 +43,6 @@ Designed with both the user and the business owner in mind, it combines a sleek,
 *A behind-the-scenes look at the easy-to-use content management system.*
 <br>
 ![Admin Panel](WB-admin.png)
+
+---
+*Looking for a custom solution for your business? Let's connect!*
